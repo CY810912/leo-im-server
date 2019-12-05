@@ -1,5 +1,5 @@
 Manifest-Version: 1.0
-Built-By: Administrator
+Built-By: yangcheng
 Class-Path: leo-im-http-1.0.jar asm-6.1.jar thumbnailator-0.4.8.jar ne
  tty-all-4.1.24.Final.jar fastjson-1.2.47.jar netty-rest-server-1.0.ja
  r leo-im-api-1.0.jar leo-im-api-provider-1.0.jar leo-im-service-1.0.j
@@ -11,7 +11,7 @@ Class-Path: leo-im-http-1.0.jar asm-6.1.jar thumbnailator-0.4.8.jar ne
  4.2.jar leo-im-common-1.0.jar leo-im-socket-1.0.jar leo-im-migration-
  1.0.jar flyway-core-5.1.1.jar slf4j-api-1.7.25.jar logback-classic-1.
  2.3.jar logback-core-1.2.3.jar
-Build-Jdk: 1.8.0_131
+Build-Jdk: 1.8.0_231
 Created-By: Maven Integration for Eclipse
 Main-Class: org.leo.im.starter.App
 

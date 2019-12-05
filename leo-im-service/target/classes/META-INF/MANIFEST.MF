@@ -1,5 +1,5 @@
 Manifest-Version: 1.0
-Built-By: Administrator
+Built-By: yangcheng
 Class-Path: leo-im-api-1.0.jar leo-im-common-1.0.jar leo-im-store-1.0.
  jar mysql-connector-java-8.0.11.jar protobuf-java-2.6.0.jar druid-1.1
  .9.jar leo-im-model-1.0.jar leo-im-util-1.0.jar cglib-3.2.6.jar asm-6
@@ -8,7 +8,7 @@ Class-Path: leo-im-api-1.0.jar leo-im-common-1.0.jar leo-im-store-1.0.
   leo-im-notification-1.0.jar jedis-2.9.0.jar commons-pool2-2.4.2.jar 
  fastjson-1.2.47.jar slf4j-api-1.7.25.jar logback-classic-1.2.3.jar lo
  gback-core-1.2.3.jar
-Build-Jdk: 1.8.0_131
+Build-Jdk: 1.8.0_231
 Created-By: Maven Integration for Eclipse
 Main-Class: org.leo.im.starter.App
 
